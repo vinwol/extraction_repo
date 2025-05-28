@@ -1,8 +1,8 @@
 # Extracting Data from Publications to inform Clinical Trials
 
-This repo provides an overview of tools and workflows for extracting quantitative 
-data from published clinical trial figures and tables. The goal is to reconstruct 
-individual patient-level data (IPD) from publicly available sources when raw data 
+This repo provides a presentation and code for an overview of tools and workflows 
+for extracting quantitative data from published clinical trial figures and tables. 
+The goal is to reconstruct individual patient-level data (IPD) from publicly available sources when raw data 
 is not accessible, supporting more data-driven clinical and statistical analyses.
 
 ---
